@@ -23,7 +23,11 @@ If SuperTuxKart is possible, this should also be possible. I would like to play 
 Basic follow/unfollow app for github instead of twitter or instagram.
 
 ## Mobile App to mail congress ##
-Download the app, from location api get [representative][3], type up a message, send physical mail via [lob][4].
+Download the app, from location api get [representative][3], type up a message, send physical mail via [lob][4]. Tech to use:
+
+- Lob
+- Quill (text editor)
+- Stripe (to process payments)
 
 [3]: http://ziplook.house.gov/htbin/findrep?ZIP=48104&Submit=FIND+YOUR+REP+BY+ZIP
 [4]: https://lob.com/

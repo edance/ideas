@@ -32,3 +32,8 @@ Download the app, from location api get [representative][3], type up a message, 
 [Webflow][5] is a really cool tool. There would be a lot to build.
 
 [5]: https://www.webflow.com
+
+## Build something with Electron
+That's pretty [neat][6].
+
+[6]: https://www.youtube.com/watch?v=Hm3JodBR-vs

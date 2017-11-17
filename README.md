@@ -1,7 +1,19 @@
 # ideal ideas #
 
 ## evandancer.com ##
-I already have the domain. Need to make it into something cool. I liked the landing pages [here][1].
+
+### Idea 1
+
+Chatbot very similar to spot. Works as a resume where people can ask the "bot" Evan things about his resume. I would use phoenix for chat.
+Everything would route to slack and I could take over when I was available and pretend to be a bot.
+
+### Idea 2
+
+Personal website looks like the no internet connection page for Chrome. Turns into a game where after you lose, there are links to portfolio.
+
+### Idea 3
+
+I liked the landing pages [here][1].
 
 [1]: http://getbase.org/
 

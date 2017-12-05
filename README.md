@@ -53,3 +53,11 @@ Download the app, from location api get [representative][3], type up a message, 
 That's pretty [neat][6].
 
 [6]: https://www.youtube.com/watch?v=Hm3JodBR-vs
+
+## Commercial Skipper/Blackout
+- Build a hdmi -> hdmi dongle (using a raspberry pi).
+- Dongle streams the input directly to the output
+- Program listens for breaks in the audio (this will signify cuts/breaks)
+- The first X seconds of audio will be fingerprinted and sent to the backend for a match
+- If there is a match, mute the signal until the next break.
+- Would need to build a service similar to shazam but for commercials

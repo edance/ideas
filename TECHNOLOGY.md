@@ -15,3 +15,7 @@ Same thing as I stated with electron, it would be cool to make my own app for th
 ## [Vue.js](https://vuejs.org/)
 
 This is a smaller javascript library that is helpful for rendering components. This is best to integrate in a system like rails where most of the templating is done on the backend.
+
+## [Three.js](https://threejs.org/)
+
+3d animations in javascript.
